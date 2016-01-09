@@ -1,1 +1,1 @@
-docker build -t json-python .
+docker build -t python-json .
