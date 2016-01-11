@@ -1,1 +1,1 @@
-docker build -t python-json .
+docker build -t newrelic-parser .
