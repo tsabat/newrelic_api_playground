@@ -32,5 +32,6 @@ For example:
 
 ## Todo
 
-- [ ] allow time to be passed in (right now only gets last 30m of data
+- [ ] allow time to be passed in (right now only gets last 30m of data)
 - [ ] store to db for later analysis
+- [ ] cron every 30m
